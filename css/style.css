@@ -1,6 +1,7 @@
 .bannerBgImage{
     height: 100vh;
-    background: url("/Images/computer.jpg");
+    background-color:pink;
+    background-image: url("Images/computer.jpg");
     background-size: cover;
     position: relative; 
 }
